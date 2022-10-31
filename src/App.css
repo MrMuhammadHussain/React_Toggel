@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+
+}
+.dark {
+  background-color: #212121;
+  color: white;
+  height: 100vh;
+}
+button {
+  border-radius: 5px;
+  border-color: azure;
+}
